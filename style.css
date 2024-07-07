@@ -1,0 +1,54 @@
+*{
+
+    margin: 0;
+    font-family: "Roboto", sans-serif; 
+
+}
+
+.header{
+
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    
+}
+
+.header div{
+
+    flex: 1;
+    padding: 20px;
+    
+}
+
+
+
+.header-left-section h1{
+
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 25vh;
+}
+
+.header-right-section{
+
+   
+}
+
+.header-right-section .links{
+
+    
+    margin-left: 15vh;
+}
+
+.header-right-section a{
+
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+    margin-left: 10vh;
+    
+  
+}
+
+
+

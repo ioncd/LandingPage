@@ -162,7 +162,6 @@
 
     height: auto;
     background-color: #E5E7EB;
-    border: 1px solid #1f2937;
     padding-bottom: 10vh;
 }
 
@@ -197,3 +196,53 @@
 }
 
 
+.CTA{
+
+    background-color: #F9FAF8;
+    height: auto;
+    padding: 12vh 35vh 12vh 33vh;
+}
+
+.cta-container{
+
+    display: flex;
+    background-color: #3882F6 ;
+    padding: 5vh 15vh 5vh 15vh;
+    border-radius: 8px;
+    
+}
+.cta-container div{
+    color: #F9FAF8;
+}
+
+.left-cta-container{
+
+    width: 70%;
+}
+.left-cta-container h1{
+
+    font-size: 30px;
+}
+
+.left-cta-container p{
+
+    font-size: 21px;
+}
+
+.right-cta-container{
+
+    width: 30%;
+}
+
+.right-cta-container button {
+
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 10px 45px 10px 45px;
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 1.5vh 1vh 1vh 12vh;
+   
+}

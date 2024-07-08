@@ -100,4 +100,38 @@
     padding: 10vh 35vh 10vh 0vh
 }
 
+/*-------info section -------*/
+.info-section{
+
+    background-color: #F9FAF8;
+    
+}
+
+.info-section h1{
+
+    text-align: center;
+    padding: 5vh;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.info-sub-section {
+
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.info-sub-section div{
+
+   
+    height: 25vh;
+    border: 4px solid #3882F6;
+    margin: 4vh;
+    width: 25vh;
+    border-radius: 10px;
+}
+
 

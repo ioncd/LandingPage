@@ -246,3 +246,12 @@
     margin: 1.5vh 1vh 1vh 12vh;
    
 }
+
+.footer{
+    background-color: #1f2937;
+    color: #F9FAF8;
+    font-size: 24px;
+    text-align: center;
+    padding: 5vh 0vh 5vh 0vh;
+    
+}

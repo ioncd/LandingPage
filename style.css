@@ -157,3 +157,43 @@
     text-align: center;
     
 }
+
+.quote-section{
+
+    height: auto;
+    background-color: #E5E7EB;
+    border: 1px solid #1f2937;
+    padding-bottom: 10vh;
+}
+
+.quote-section p {
+
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+    
+      
+}
+.quote-section .quo-con1{
+
+    padding: 15vh 60vh 0vh 59vh;
+    
+}
+
+
+.quote-section h1{
+
+    font-size: 24px;
+    color: #1f2937;
+    text-align: right;
+    padding-right: 5vh;
+
+}
+
+.quote-section .quo-con2{
+
+    margin: 1vh 60vh 0vh 90vh; 
+}
+
+
